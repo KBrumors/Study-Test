@@ -34,5 +34,7 @@ public class App {
         System.out.println("master修改Bug");
         System.out.println("dev工作进行了一半");
         System.out.println("dev工作继续干另一半");
+        System.out.println("dev干了一的活儿");
+        System.out.println("dev干了二的活儿");
     }
 }
