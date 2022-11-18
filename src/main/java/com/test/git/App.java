@@ -26,5 +26,6 @@ public class App {
         clazz.setStudentList(studentArrayList);
         System.out.println(clazz);
         System.out.println("测试no-ff");
+        System.out.println("dev第一次快照");
     }
 }
