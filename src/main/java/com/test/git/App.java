@@ -32,5 +32,7 @@ public class App {
         System.out.println("dev第四次快照");
         System.out.println("dev第五次快照");
         System.out.println("master修改Bug");
+        System.out.println("dev工作进行了一半");
+        System.out.println("dev工作继续干另一半");
     }
 }
